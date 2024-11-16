@@ -1,7 +1,7 @@
 const customer = {
   username: 'Mango',
   balance: 24000,
-  customerdiscount: 0.1,
+  discount: 0.1,
   orders: ['Burger', 'Pizza', 'Salad'],
   // Change code below this line
   getBalance() {
